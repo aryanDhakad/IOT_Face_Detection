@@ -1,4 +1,4 @@
-# IOT_Face_Detection
+# IOT Face Detection
 An IOT project using Face Detection for making smart Lock.
 
 # Face-Recognition-and-Security-System
